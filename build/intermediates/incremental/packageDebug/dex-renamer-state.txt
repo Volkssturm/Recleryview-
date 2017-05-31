@@ -1,0 +1,7 @@
+#Wed May 31 14:18:28 CST 2017
+base.0=D\:\\AndroidStudio\\Newwork\\recyclerview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b9c19b098c0e89ef19efa25b264123d6598559f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\Newwork\\recyclerview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7d24dc8290a16ced83951f59957e22b34d652815\\classes.dex
+base.1=D\:\\AndroidStudio\\Newwork\\recyclerview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7d24dc8290a16ced83951f59957e22b34d652815
+file.0=D\:\\AndroidStudio\\Newwork\\recyclerview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b9c19b098c0e89ef19efa25b264123d6598559f9\\classes.dex
